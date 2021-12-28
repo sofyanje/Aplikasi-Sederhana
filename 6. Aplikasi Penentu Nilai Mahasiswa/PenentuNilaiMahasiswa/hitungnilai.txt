@@ -1,0 +1,4 @@
+Nama : 	Sofyan
+Nilai Rata-Rata : 	90.0
+Grade : 	A
+Hasil : 	Lulus
